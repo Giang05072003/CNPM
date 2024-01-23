@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328317277513",
+    "project_id": "tropical-forest-8587c",
+    "storage_bucket": "tropical-forest-8587c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328317277513:android:b002464a401536b8183698",
+        "android_client_info": {
+          "package_name": "com.example.tropicalforest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_NPx4SilclRxl6c10zAmRLCxIbMz0hQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
